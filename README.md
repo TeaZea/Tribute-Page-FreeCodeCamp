@@ -1,4 +1,4 @@
-Basic code for the project
+User Stories for the project
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
