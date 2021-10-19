@@ -4,7 +4,7 @@
    <h1>Bulgaria's First Khan</h1>
    <p id="title">A brief history of Asparuh of Bulgaria</p>
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/KanasJubigiAsparukh2.JPG" alt="Statue of Asparuh">
-   <p id="image-caption"><em> A statue of Asparuh in <strong>Strelcha, Bulgaria</strong></em></p>
+   <p id="image-caption"><em> A statue of Khan Asparuh in <a href="https://en.wikipedia.org/wiki/Strelcha" target="_blank"><strong>Strelcha, Bulgaria</strong></em></p>
   </header>
   <article>
    <h2>Establishment of the First Bulgarian Empire</h2>
