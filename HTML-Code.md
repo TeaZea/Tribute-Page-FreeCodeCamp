@@ -16,9 +16,11 @@
   
   <list>
    <p>Pellentesque sed eleifend ex. Sed et justo elit. Praesent eu mauris sagittis, venenatis quam in, congue nulla. Donec tristique sed nulla fringilla porta.</p>
-   <ol>asdasdasdasd</ol>
-   <ol>argwergwergwerf</ol>
-   <ol>asjdfhiqwrfowerig</ol>
+    <ul>
+     <li>asdasdasdasd</li>
+     <li>argwergwergwerf</li>
+     <li>asjdfhiqwrfowerig</li>
+    </ul> 
   </list>
   
   <article>
