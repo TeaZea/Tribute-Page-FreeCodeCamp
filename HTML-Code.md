@@ -27,6 +27,19 @@
    <p>Morbi et condimentum metus. Sed et lacinia mi. Praesent non fermentum dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc quis aliquet quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eleifend erat vitae ipsum ultrices, vitae ornare metus feugiat. Morbi a molestie ante. Duis quis turpis ac tellus egestas bibendum. Sed nec lorem ligula.</p>
   </article>
   
+  <article>
+   <h3>Asparuh Most Famous Battle</h3>
+   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend lacus id risus sagittis molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas feugiat eleifend est at egestas.</p>
+   <br></br>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend lacus id risus sagittis molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas feugiat eleifend est at egestas.</p>
+  <br></br>
+ <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend lacus id risus sagittis molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas feugiat eleifend est at egestas.</p>
+ <br></br>
+ <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend lacus id risus sagittis molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas feugiat eleifend est at egestas.</p>
+ <p><strong>VIDEO EMBEDDED HERE</strong></p>
+ <p>Thank you to <em>BazBattles</em> for doing the research and making <a href="https://www.youtube.com/watch?v=gambV0_mvD4" target="_blank">this</a> well thought out video on the Battle of Ongal. Here's his <a href="https://www.youtube.com/channel/UCx-dJoP9hFCBloY9qodykvw" target="_blank">main channel</a> for more battle breakdowns throughout history.</p>
+</article> 
+ 
   <footer>
    <p>Find out more about Bulgaria's first Khan on <a href="https://en.wikipedia.org/wiki/Asparuh_of_Bulgaria" target="_blank">Wikipidia</a>.<p><em>For BeeBee</em></p>           </footer>
   
