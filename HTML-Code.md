@@ -25,7 +25,7 @@
    <br></br>
    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend lacus id risus sagittis molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas feugiat eleifend est at egestas.</p>
    <p><strong>VIDEO EMBEDDED HERE</strong></p>
-   <p>Thank you to <em>BazBattles</em> for doing the research and making <a href="https://www.youtube.com/watch?v=gambV0_mvD4" target="_blank">this</a> well thought out video on the Battle of Ongal. Here's his <a href="https://www.youtube.com/channel/UCx-dJoP9hFCBloY9qodykvw" target="_blank">main channel</a> for more battle breakdowns throughout history.</p>
+   <p><em>Thank you to <em>BazBattles</em> for doing the research and making <a href="https://www.youtube.com/watch?v=gambV0_mvD4" target="_blank">this</a> well thought out video on the Battle of Ongal. Here's his <a href="https://www.youtube.com/channel/UCx-dJoP9hFCBloY9qodykvw" target="_blank">main channel</a> for more battle breakdowns throughout history</em>.</p>
   </article>
 
   <list>
