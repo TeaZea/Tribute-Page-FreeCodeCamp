@@ -1,6 +1,6 @@
 <html>
  
- <main>
+ <main id="main">
   
   <header>
    <h1>Bulgaria's First Khan</h1>
