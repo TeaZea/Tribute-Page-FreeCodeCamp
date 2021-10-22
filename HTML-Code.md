@@ -25,7 +25,7 @@
    <br></br>
    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend lacus id risus sagittis molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas feugiat eleifend est at egestas.</p>
    <p><strong>VIDEO EMBEDDED HERE</strong></p>
-   <p><em>Thank you to <em>BazBattles</em> for doing the research and making <a href="https://www.youtube.com/watch?v=gambV0_mvD4" target="_blank">this</a> well thought out video on the Battle of Ongal. Here's his <a href="https://www.youtube.com/channel/UCx-dJoP9hFCBloY9qodykvw" target="_blank">main channel</a> for more battle breakdowns throughout history</em>.</p>
+   <p class="youtube-source"><em>Thank you to <em>BazBattles</em> for doing the research and making <a href="https://www.youtube.com/watch?v=gambV0_mvD4" target="_blank">this</a> well thought out video on the Battle of Ongal. Here's his <a href="https://www.youtube.com/channel/UCx-dJoP9hFCBloY9qodykvw" target="_blank">main channel</a> for more battle breakdowns throughout history</em>.</p>
   </article>
 
   <list>
@@ -42,7 +42,9 @@
   </article>
 
   <footer>
-   <p>Find out more about Bulgaria's first Khan on <a href="https://en.wikipedia.org/wiki/Asparuh_of_Bulgaria" target="_blank">Wikipidia</a>.<p><em>For BeeBee</em></p>           </footer>
+   <p class="footer-source">Find out more about Bulgaria's first Khan on <a href="https://en.wikipedia.org/wiki/Asparuh_of_Bulgaria" target="_blank">Wikipidia</a>.
+   <p class="for-beebee"><em>For BeeBee</em></p>           
+  </footer>
   
  </main>
  
