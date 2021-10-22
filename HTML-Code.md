@@ -11,7 +11,7 @@
   
   <article>
    <h2>Establishment of the First Bulgarian Empire</h2>
-   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend lacus id risus sagittis molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas feugiat eleifend est at egestas. Pellentesque eu laoreet nulla. Mauris convallis urna quis nisi lobortis, eu aliquam ante pulvinar. Ut condimentum eros eget elementum dapibus. Suspendisse placerat mi eu purus malesuada, eu porttitor odio feugiat. Pellentesque sed eleifend ex. Sed et justo elit. Praesent eu mauris sagittis, venenatis quam in, congue nulla. Donec tristique sed nulla fringilla porta.</p>
+   <p>Asparuh was а ruler of Bulgars in the second half of the 7th century and is credited with the establishment of the First Bulgarian Empire in 681. Asparuh was part of the Dulo Clan and reined from 668 to 695, although texts confirming this are varried. He was the younger son of his father who was the culer of the Dulo Clan until his death sometime in 665, after which, his older son Bat Bayan became ruler. After constant Khazar attacks, the clan and soon dissipated and Asparuh and anywhere between 30,000 and 50,000 Bulgars left to find a more secure homeland.[.</p>
   </article>
   
   <list>
