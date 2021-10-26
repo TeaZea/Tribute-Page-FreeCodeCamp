@@ -19,11 +19,12 @@
   }
   
   #image {
-    image-size: 50%;
+    width; 400px;
+    height: 400px;
     border-color: black;
     border-size: 2px;
     align: center;
-    margin: auto
+    margin: auto;
   }
   
   #image-div {
