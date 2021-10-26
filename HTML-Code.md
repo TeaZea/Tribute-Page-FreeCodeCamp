@@ -42,7 +42,7 @@
   </article>
 
   <footer>
-   <p class="footer-source">Find out more about Bulgaria's first Khan on <a href="https://en.wikipedia.org/wiki/Asparuh_of_Bulgaria" target="_blank">Wikipidia</a>.
+   <p id="tribute-link" class="footer-source">Find out more about Bulgaria's first Khan on <a href="https://en.wikipedia.org/wiki/Asparuh_of_Bulgaria" target="_blank">Wikipidia</a>.
    <p class="for-beebee"><em>For BeeBee</em></p>           
   </footer>
   
