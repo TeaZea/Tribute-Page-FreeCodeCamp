@@ -44,5 +44,10 @@
     text-align: center;
   }
   
+  #tribute-link {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    text-align: center;
+  }
   
 </style>
