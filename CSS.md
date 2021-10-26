@@ -23,6 +23,7 @@
     border-color: black;
     border-size: 2px;
     align: center;
+    margin: auto
   }
   
   #image-div {
@@ -46,7 +47,7 @@
   
   #tribute-link {
     font-family: "Times New Roman", serif;
-    font-size: 1em;
+    font-size: 0.9em;
     text-align: center;
   }
   
