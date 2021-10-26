@@ -5,13 +5,13 @@
   <header>
    <h1>Bulgaria's First Khan</h1>
    <p id="title">A brief history of Asparuh of Bulgaria</p>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/KanasJubigiAsparukh2.JPG" alt="Statue of Asparuh">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/KanasJubigiAsparukh2.JPG" alt="Statue of Asparuh" class="image" "image-div">
    <p id="image-caption"><em> A statue of Khan Asparuh in <a href="https://en.wikipedia.org/wiki/Strelcha" target="_blank"><strong>Strelcha, Bulgaria</strong></em></a></p>
   </header>
   
   <article>
    <h2>Establishment of the First Bulgarian Empire</h2>
-   <p>Asparuh was а ruler of Bulgars in the second half of the 7th century and is credited with the establishment of the First Bulgarian Empire in 681. Asparuh was part of the Dulo Clan and reined from 668 to 695 AD, although texts confirming this are varried. He was the younger son of his father who was the culer of the Dulo Clan until his death sometime in 665 AD, after which, his older son Bat Bayan became ruler. After constant Khazar attacks, the clan and soon dissipated and Asparuh and anywhere between 30,000 and 50,000 Bulgars left to find a more secure homeland. He reached the Danube and during the seige of Constantinople was the Arabs, he and his people settled in the Danube delta. After the siege of Constantinople ended, the Byzantine Emperor Constantine IV marched against the Bulgars and their Slav allies in 680 AD. Thus the war for the first Bulgarian Empire began with it's most important battle.</p>
+   <p id="tribute-info">Asparuh was а ruler of Bulgars in the second half of the 7th century and is credited with the establishment of the First Bulgarian Empire in 681. Asparuh was part of the Dulo Clan and reined from 668 to 695 AD, although texts confirming this are varried. He was the younger son of his father who was the culer of the Dulo Clan until his death sometime in 665 AD, after which, his older son Bat Bayan became ruler. After constant Khazar attacks, the clan and soon dissipated and Asparuh and anywhere between 30,000 and 50,000 Bulgars left to find a more secure homeland. He reached the Danube and during the seige of Constantinople was the Arabs, he and his people settled in the Danube delta. After the siege of Constantinople ended, the Byzantine Emperor Constantine IV marched against the Bulgars and their Slav allies in 680 AD. Thus the war for the first Bulgarian Empire began with it's most important battle.</p>
   </article>
   
   <article>
