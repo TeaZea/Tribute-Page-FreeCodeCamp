@@ -1,55 +1,50 @@
-<style>
-  #main {
-    font-family: "Times New Roman", serif;
-    font-size: 1em;
-    text-align: center;
-  }
-  
-  .youtube-source {
-    font-size: 0.9em;
-  }
-  
-  .footer-source {
-    font-siz: 0.9em;
-  }
-  
-  .for-beebee {
-    font-size: 0.8em;
-    font-family: "Papyrus", fantasy;
-  }
-  
-  #image {
-    width; 400px;
-    height: 400px;
-    border-color: black;
-    border-size: 2px;
-    align: center;
-    margin: auto;
-  }
-  
-  #image-div {
-    background-color: white;
-  }
-  
-  #image-caption {
-    font-family: "Times New Roman", serif;
-    font-size: 1em;
-  }
-  
-  #title {
-    font-color: gray;
-  }
-  
-  #tribute-info {
-    font-family: "Times New Roman", serif;
-    font-size: 1em;
-    text-align: center;
-  }
-  
-  #tribute-link {
-    font-family: "Times New Roman", serif;
-    font-size: 0.9em;
-    text-align: center;
-  }
-  
-</style>
+body {
+  font-family: "Helvetica", sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+  background-color: white;
+}
+
+#main {
+  padding: 10px;
+  margin: 0px 50px 0 50px;
+  background-color: lightgray;
+}
+
+#image {
+  height: auto;
+  max-width: 60%;
+  border-size: 2px;
+  border-style: solid;
+}
+
+#image-div {
+  background-color: gray;
+  padding: 10px;
+}
+
+#tribute-info {
+  text-indent: 100px;
+}
+
+.source {
+  font-size: 0.8em;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.indent {
+  text-indent: 100px;
+}
+
+ul{
+  margin-left: 500px;
+  text-align: left; 
+}
+
+h1 {
+  font-family: "Arial", sans-serif;
+}
+
